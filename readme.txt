@@ -1,5 +1,6 @@
 === WP Login Security and History ===
 Contributors: fakhris
+Donate link: http://www.clogica.com/donations.htm
 Tags: Login,Security,History,Save
 Requires at least: 3.0.1
 Tested up to: 3.8.1
