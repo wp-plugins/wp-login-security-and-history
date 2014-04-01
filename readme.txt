@@ -8,11 +8,8 @@ Stable tag: trunk
 By this smart plugin you can protect your login page from Brute-force attacks also you can track login history
 
 == Description ==
-
 By this smart plugin you can protect your login page from Brute-force attacks also you can track login history.
-
-Features:
-<ul>
+Features:<ul>
 <li>Captcha on the admin login page to protect against auto-hacking.</li>
 <li>You can set the number of failed logins to show Captcha or showing it always.</li>
 <li>Login Blocker option to block the login processe for a period of time after specific number of failed logins.</li>
