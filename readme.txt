@@ -27,6 +27,10 @@ WP Login Security and History WordPress Plugin</a>
 <li>Lockup the plugin, and click "Activate" to get it active.</li>
 <li>Go to the Options page and configure the plugin.</li>
 </ul>
+
+<p>view this posts if you want more details about installing plugins: <a href="http://www.wpfasthelp.com/how-to-install-wordpress-plugins.htm">
+http://www.wpfasthelp.com/how-to-install-wordpress-plugins.htm</a></p>
+
 == Screenshots ==
 1. Login history to show all login processes in details
 
