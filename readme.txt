@@ -3,7 +3,7 @@ Contributors: fakhris
 Donate link: http://www.clogica.com/donations.htm
 Tags: Login,Security,History,Save
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.0.1
 Stable tag: trunk
 
 By this smart plugin you can protect your login page from Brute-force attacks also you can track login history
